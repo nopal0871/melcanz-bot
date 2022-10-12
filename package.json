@@ -1,5 +1,5 @@
 {
-  "name": "melcanz-bot",
+  "name": "oxxy",
   "version": "1.0.0",
   "description": "bot whatsapp melcanz.com",
   "depecrated": false,
@@ -24,7 +24,7 @@
     "bot",
     "baileys"
   ],
-  "author": "melcanz",
+  "author": "oxxy",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/melcanz/melcanz-bot/issues"
